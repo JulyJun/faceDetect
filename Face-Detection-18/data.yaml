@@ -1,0 +1,12 @@
+names:
+- face
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: face-detection-mik1i
+  url: https://universe.roboflow.com/mohamed-traore-2ekkp/face-detection-mik1i/dataset/18
+  version: 18
+  workspace: mohamed-traore-2ekkp
+test: ../test/images
+train: ../train/images
+val: ../valid/images
